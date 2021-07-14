@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Hey Carlos
+    title: Hey Carlos test
     subtitle: Interact with clients! Thru the preview
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
